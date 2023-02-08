@@ -1,6 +1,6 @@
 # git tutorial
 
-git tutorial details will be here
+git tutorial details will be here pavan
 
 ## youtube video link
 
